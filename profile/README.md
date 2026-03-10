@@ -5,6 +5,15 @@ Aplikasi ini dibuat untuk perusahaan **RB Group** sebagai solusi digital terhada
 
 ---
 
+## 👨‍💻 Maintainer
+
+Project ini dikembangkan oleh:
+
+**Yudha Haryoputranto**  
+GitHub: https://github.com/yudhah52
+
+---
+
 ### ✨ FITUR UTAMA
 
 * **Registrasi dan autentikasi pengguna** sebagai **Karyawan** atau **HRD**.
